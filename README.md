@@ -30,5 +30,3 @@ https://github.com/qosmio/openwrt-ipq.git
 https://github.com/King-Of-Knights/openwrt-6.x.git
 
 家用日常使用稳定运行了100多天了，开梯子内存剩余基本在100m左右。
-![image](https://github.com/user-attachments/assets/89a32e90-f5e1-4f46-9d54-9ba8c6e85f9e)
-![微信截图_20241116071804](https://github.com/user-attachments/assets/502012e5-83d0-4e4b-be8b-a53c1edd0f8b)
